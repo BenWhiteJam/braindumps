@@ -2,7 +2,7 @@
 
 ### Middleware: Bridging the Gap
 
-Web3, heralded as the decentralized successor to Web2, seeks to establish an internet where users have complete control over their data, assets, and digital identities. However, despite its ambitious goals and transformative potential, it grapples with its own set of challenges that need addressing:
+Web3, heralded as the decentralized successor to Web2, seeks to establish an internet where users have complete control over their data, assets, and digital identities. However, despite its ambitious goals and transformative potential, it grapples with its own set of challenges that need addressing (https://www.thecoinrepublic.com/2023/10/29/web3-vs-web-3-0-what-is-it-and-how-are-they-contrasting/):
 
 - **User-Friendliness**: The decentralized applications (dApps) and interfaces in the Web3 space, although powerful, often present a steep learning curve for new users, which could potentially hinder mass adoption.
 
